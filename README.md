@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Akarsh
 
-<!--
-**Akarsh-ux/Akarsh-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🎓 BCA Final Year Student
+- 💼 Python Intern
+- 🌱 Learning Full Stack Development
+- 🤖 Interested in cricket
+- 🎯 Goal: Become a Full Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- Python
+- HTML
+- CSS
+- JavaScript (Learning)
+- SQL
+- Flask
+- Selenium
+- Git & GitHub
+
+---
+
+## 🚀 Current Projects
+
+- Hospital Management System
+- iCare Brighter Future
+- Full Stack Learning Journey
+
+---
+
+## 📚 Currently Learning
+
+- Flask APIs
+- JavaScript
+- React
+- SQL
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Akarsh-ux
+
+---
+
+⭐ Thanks for visiting my profile!
