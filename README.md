@@ -42,6 +42,7 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/Akarsh-ux
+- Instagram: akarshhhh24
 
 ---
 
