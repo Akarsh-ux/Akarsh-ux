@@ -25,7 +25,6 @@
 
 ## 🚀 Current Projects
 
-- Hospital Management System
 - iCare Brighter Future
 - Full Stack Learning Journey
 
