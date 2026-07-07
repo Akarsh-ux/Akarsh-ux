@@ -4,7 +4,7 @@
 - 🎓 BCA Final Year Student
 - 💼 Python Intern
 - 🌱 Learning Full Stack Development
-- 🤖 Interested in cricket
+- 💡 Passionate about Problem Solving and Coding
 - 🎯 Goal: Become a Full Stack Developer
 
 ---
